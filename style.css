@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    /* background-color: aqua;  */
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.chart-container{
+    /* position: relative; */
+    height:40vh; width:80vw;
+    margin-top: 66px;
+}
+
+/* @media (max-width: 1000px) {
+    
+  } */
